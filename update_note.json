@@ -1,5 +1,8 @@
 {
-    "current update": "ver 1.0.2 (최신 버전)\n- 종료기능 오류 수정\n- 개발자 정보에 업데이트 노트 추가",
-    "future update": "[업데이트 예정 사항]\n- 업데이트 노트 글로벌 언어 제공",
-    "past update": "[지난 버전]\nver 1.0.1\n- 뒤로가기 버튼 동작 오류 수정\n- 결과화면에서 현재 결과 뷰 화면 크기에 맞게 최적화\n- 게임 종료버튼 추가\n\nver 1.0.0\n- 정식 출시"
+    "current update": "ver 1.0.3 (최신 버전)\n- 화면 외부 터치시 키보드 비활성화\n- 게임 화면 뷰 오류 수정\n- 업데이트 노트 영어버전 지원",
+    "future update": "[업데이트 예정 사항]\n- 미정...",
+    "past update": "[지난 버전]\nver 1.0.2\n- 종료기능 오류 수정\n- 개발자 정보에 업데이트 노트 추가\n\nver 1.0.1\n- 뒤로가기 버튼 동작 오류 수정\n- 결과화면에서 현재 결과 뷰 화면 크기에 맞게 최적화\n- 게임 종료버튼 추가\n\nver 1.0.0\n- 정식 출시",
+    "current update eng": "ver 1.0.3 (Latest Version)\n- Disable keyboard on screen touch\n- Optimize Play screen\n- Support to Update Note English version",
+    "future update eng": "[Update Scheduled]\n- Undetermined...",
+    "past update eng": "[Previous Version]\nver 1.0.2\n- Modify Shut down button\n- Add Update Note\n\nver 1.0.1\n- Modify Back button\n- Optimize Result screen\n- Add Shut down button\n\nver 1.0.0\n- Release"
 }
