@@ -1,7 +1,10 @@
 # 숫자야구 (Bulls and Cows)
 
 ## 업데이트 노트 (KOR)
-- ver 1.0.3 (최신 버전)
+- ver 1.0.4 (최신 버전)
+  * 업데이트 노트 오류 수정
+
+- ver 1.0.3
   * 화면 외부 터치시 키보드 비활성화
   * 게임 화면 뷰 오류 수정
   * 업데이트 노트 영어버전 지원
@@ -21,7 +24,10 @@
 <br>
 
 ## Update Note (Eng)
-- ver 1.0.3 (Latest Version)
+- ver 1.0.4 (Latest Version)
+  * Fix error in Update Note
+
+- ver 1.0.3
   * Disable keyboard on screen touch
   * Optimize Play screen
   * Support to Update Note English version
